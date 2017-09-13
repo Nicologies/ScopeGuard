@@ -2,7 +2,7 @@
 
 namespace Nicologies.ScopeGuard
 {
-  public class ScopeGuard
+  public class ScopeGuard : IDisposable
   {
     private Action _exit;
     public ScopeGuard(Action enter, Action exit)

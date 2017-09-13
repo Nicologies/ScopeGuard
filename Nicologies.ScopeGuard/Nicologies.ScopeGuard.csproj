@@ -8,8 +8,8 @@
     <PackageLicenseUrl>https://github.com/Nicologies/ScopeGuard/blob/master/LICENSE</PackageLicenseUrl>
     <RepositoryUrl>https://github.com/Nicologies/ScopeGuard</RepositoryUrl>
     <PackageTags>ScopeGuard</PackageTags>
-    <AssemblyVersion>1.0.0.0</AssemblyVersion>
-    <Version>1.0.0.0</Version>
+    <AssemblyVersion>1.0.0.1</AssemblyVersion>
+    <Version>1.0.0.1</Version>
   </PropertyGroup>
 
 </Project>
